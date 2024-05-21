@@ -5,13 +5,16 @@ In order to use the code correctly: Open the terminal and type
 
 
 pip install ultralytics
-.
+
+
 pip install YOLO
-.
+
+
 pip install cv2
-.
+
+
 pip install cvzone
-.
+
 
 
 
