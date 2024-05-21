@@ -1,7 +1,7 @@
 This was my first time doing a small CV2 project
 
 
-In order to use the code correctly: Open the terminal and type
+In order to use the code correctly Open the terminal and type :
 
 
 pip install ultralytics
